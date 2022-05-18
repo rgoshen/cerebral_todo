@@ -1,0 +1,25 @@
+{
+  "name": "cerebral-todomvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@cerebral/react": "4.2.1",
+    "cerebral": "5.2.1",
+    "classnames": "2.2.6",
+    "page": "1.11.5",
+    "react": "16.10.2",
+    "react-dom": "16.10.2",
+    "todomvc-app-css": "2.3.0",
+    "todomvc-common": "1.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
